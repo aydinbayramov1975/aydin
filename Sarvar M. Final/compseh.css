@@ -1,0 +1,32 @@
+
+
+
+.esas{
+    background-color: orange;
+    border: none;
+    border-radius:5px ;
+    padding: 5px;
+    display: block;
+    margin: auto;
+    color: white;
+}
+
+
+main{
+    display: flex;
+}
+
+.left{
+    width: 30%;
+}
+
+.right{
+    width: 70%;
+}
+
+.inner{
+    width: 30%;
+    position: fixed;
+    top: 40px;
+    left: 0;
+}

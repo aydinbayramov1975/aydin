@@ -1,0 +1,46 @@
+.btn1{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.btn2{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.btn3{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.sonluq{
+    width: 60%;
+display: block;
+margin: auto;
+}
+
+.carusel-inner{
+width: 60%;
+}
+
+img{
+    width: 60%;
+    height: 500px;
+}
+
+.btn4{
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}

@@ -1,0 +1,44 @@
+.esas{
+    background-color: orange;
+    border: none;
+    border-radius:5px ;
+    padding: 5px;
+    display: block;
+    margin: auto;
+    color: white;
+}
+
+form{
+    width: 30%;
+    display: block;
+margin: auto;
+
+padding: 15px;
+border-radius: 5px;
+}
+
+.submit{
+    margin-top: 40px;
+    background-color: blue;
+}
+
+.hesab{
+    display: block;
+    margin: auto;
+    margin-left: 488px;
+    margin-right: 488px;
+}
+
+ input{
+    width: 50%;
+}
+
+.btn2{
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    padding: 7px;
+    margin-left: 488px;
+    margin-right: 488px;
+}

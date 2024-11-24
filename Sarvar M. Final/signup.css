@@ -1,0 +1,31 @@
+form{
+    width: 30%;
+    display: block;
+margin: auto;
+
+padding: 15px;
+border-radius: 5px;
+margin-left: 500px;
+}
+
+.submit{
+    margin-top: 40px;
+    background-color: green;
+}
+
+.hesab{
+    display: block;
+    margin: auto;
+    margin-left: 488px;
+    margin-right: 488px;
+}
+
+.esas{
+    background-color: orange;
+    border: none;
+    border-radius:5px ;
+    padding: 5px;
+    display: block;
+    margin: auto;
+    color: white;
+}
